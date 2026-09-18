@@ -1,2 +1,2 @@
 # Case-ML-em-Python
-Case de ML em Python (Pandas, NumPy, Matplotlib, Seaborn e Scikit-Learn) para a entidade de estudos em dados e IA da EACH-USP (HYPE). Ainda em desenvolvimento
+Modelo de Machine Learning (classificação multiclasse) em desenvolvimento em Python, utilizando Pandas, NumPy, Matplotlib, Seaborn e Scikit-Learn, para prever qual setor de uma entidade de Ciência de Dados (EACH-USP) teria maior afinidade com um determinado jogo, a partir de características como plataforma, gênero, notas de crítica/usuários e categoria de vendas. O dataset utilizado contém informações sobre jogos e o setor de maior afinidade correspondente (variável alvo).
